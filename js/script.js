@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('static/courses.json')
+    fetch('data/courses.json')
         .then(response => response.json())
         .then(courses => {
             const courseList = document.getElementById('course-list');
