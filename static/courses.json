@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Web Development Bootcamp",
+        "instructor": "Colt Steele",
+        "completeDate": "2021-05-20"
+    },
+    {
+        "title": "JavaScript Advanced Concepts",
+        "instructor": "Andre Neagoie",
+        "completeDate": "2021-08-15"
+    }
+]
